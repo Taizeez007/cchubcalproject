@@ -1,0 +1,25 @@
+body{
+    display:flex;
+    flex-direction:column;
+    flex:3;
+    flex-wrap: nowrap;
+    background-color: skyblue;
+}
+
+button{
+    color:skyblue;
+    padding:20px;
+    margin-bottom:10px;
+    margin-top:10px;
+    width:200px;
+    border-radius: 30px;
+    background-color: black;
+
+}
+
+.pers-count{
+    display:flex;
+    flex-direction:column;
+    justify-content:center;
+    align-items: center;
+}

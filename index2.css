@@ -1,0 +1,42 @@
+*{
+    background-color: green;
+}
+
+body{
+    display:flex;
+    flex-direction:column;
+    justify content:center;
+    align-items:center;
+   
+}
+
+h4 {
+    color:white;
+    align-content: center;
+}
+
+h2{
+    font-weight: 700;
+    font-size:50px;
+    color:yellow;
+}
+
+button{
+    background-color: yellow;
+    color:green;
+    padding:5px 10px;
+    font-weight:700;
+    width:120px;
+    margin:5px 0px;
+    border:1px solid yellow;
+}
+
+.blackjack{
+    display:flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+
+
