@@ -1,2 +1,3 @@
 # cchubcalproject
-# calculator built with html, css and vanilla javascript with basic functions
+# hands-on project with html, css and havascript
+
